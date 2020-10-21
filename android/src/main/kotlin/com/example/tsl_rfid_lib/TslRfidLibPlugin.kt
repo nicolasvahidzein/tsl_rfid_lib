@@ -1,4 +1,4 @@
-package com.example.tsl_rfid_lib
+package com.zeintek.tsl_rfid_lib
 
 import androidx.annotation.NonNull
 

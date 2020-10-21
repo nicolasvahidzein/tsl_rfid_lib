@@ -1,4 +1,4 @@
-group 'com.example.tsl_rfid_lib'
+group 'com.zeintek.tsl_rfid_lib'
 version '1.0-SNAPSHOT'
 
 buildscript {
