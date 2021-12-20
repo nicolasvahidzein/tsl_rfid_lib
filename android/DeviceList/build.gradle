@@ -1,5 +1,3 @@
-package android.DeviceList
-
 apply plugin: 'com.android.library'
 
 android {

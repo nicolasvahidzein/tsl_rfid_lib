@@ -1,8 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
-
-import 'package:flutter/services.dart';
-import 'package:tsl_rfid_lib/tsl_rfid_lib.dart';
 
 import 'inventory_page.dart';
 
