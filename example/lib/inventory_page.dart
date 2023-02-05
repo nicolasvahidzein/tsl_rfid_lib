@@ -166,7 +166,7 @@ class _InventoryPageState extends State<InventoryPage> {
                         ),
                       );
                     })),
-            FlatButton(
+            TextButton(
               onPressed: () {
                 if(_fastId){
                   setState(() {
@@ -187,7 +187,7 @@ class _InventoryPageState extends State<InventoryPage> {
 
             Row(
               children: <Widget>[
-                FlatButton(
+                TextButton(
                   onPressed: _getThingsOnStartup,
                   child: Text("Check Connect"),
                 ),
